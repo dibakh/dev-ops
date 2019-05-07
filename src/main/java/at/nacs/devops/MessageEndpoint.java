@@ -10,7 +10,7 @@ public class MessageEndpoint {
 
   @GetMapping
   String get() {
-    return "Learning DevOps server!";
+    return "Running DevOps server!";
   }
 
 }
